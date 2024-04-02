@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #f0f0f0;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-height: auto;
+  margin-top: 20%;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 1.2rem;
+  text-align: center;
+  color: #1e1e1e;
+}
+a{
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 1rem;
+  color: #f0f0f0;
+  text-decoration: none;
+  padding: 15px 20px;
+  border-radius: 10px;
+  background-color: rgb(149, 29, 219);
+  margin-top: 5%;
+}
+.imagem{
+  display: flex;
+  margin-top: 10%;
+  height: 500px;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-image: url(IMG-20240321-WA0038.jpg);
+  background-size: 100%;
+}
+p{
+  font-family: "Poppins";
+  font-weight: 800;
+  margin-top: -100%;
+  color: #f0f0f0;
+  font-size: 2rem;
+  user-select: none;
+}
