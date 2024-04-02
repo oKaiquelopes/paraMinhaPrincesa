@@ -41,4 +41,26 @@ a{
     background-color: rgb(149, 29, 219);
     margin-top: 5%;
     margin-bottom: 5%;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .musica{
+    font-family: "Poppins";
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: center;
+    color: #f0f0f0;
+    text-decoration: none;
+    padding: 15px 15px;
+    border-radius: 10px;
+    background-color: rgb(149, 29, 219);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
   }
